@@ -1,0 +1,70 @@
+/* body {
+    font-family: Roboto, sans-serif;
+} */
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #181733;
+}
+
+.nav .nav-link.active {
+    background-color: #fff;
+    color: #181733;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-family: Pacifico, cursive;
+}
+
+img {
+    height: 600px;
+    width: 1000px;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+}
+
+
+body {
+    background: linear-gradient(90deg, #cd122d, #154284);
+}
+
+.card img {
+    height: 400px;
+    width: 315px;
+}
+
+h4,
+h1{
+    text-align: center;
+}
+
+.title {
+    color: white;
+    text-shadow: 3px 3px 3px black;
+}
+
